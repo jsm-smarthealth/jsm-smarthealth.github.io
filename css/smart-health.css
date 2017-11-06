@@ -1,0 +1,15 @@
+#sh-projects-ul {
+    text-align: center;
+}
+
+li.cardiology, li.orthopaedics, li.preventive-healthcare { 
+    position: relative !important;
+    float: none !important;
+    left: 0px !important;
+}
+
+.sh-logo {
+    max-height: 60px;
+    width: 120px;
+    /* height: 60px; */
+}
