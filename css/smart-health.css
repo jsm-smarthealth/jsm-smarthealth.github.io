@@ -13,3 +13,7 @@ li.cardiology, li.orthopaedics, li.preventive-healthcare {
     width: 120px;
     /* height: 60px; */
 }
+
+.header-style4 .sm-header {
+    padding: 5px 0px !important;
+}
