@@ -17,3 +17,7 @@ li.cardiology, li.orthopaedics, li.preventive-healthcare {
 .header-style4 .sm-header {
     padding: 5px 0px !important;
 }
+
+.team-style3 .team-details {
+    height: 300px;
+}
