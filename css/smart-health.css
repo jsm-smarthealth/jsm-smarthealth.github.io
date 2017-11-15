@@ -21,3 +21,38 @@ li.cardiology, li.orthopaedics, li.preventive-healthcare {
 .team-style3 .team-details {
     height: 300px;
 }
+
+.display-table-cell-vertical-middle {
+    vertical-align: top;
+}
+
+.sh-media-class p {
+    margin: 5px 0px 5px 0px;
+}
+
+.sh-media-class p a {
+    color: rgba(255, 255, 255, 0.65);
+    text-decoration: underline;
+}
+
+.sh-media-text {
+    padding-top: 30px !important;
+    padding-bottom: 30px !important;
+}
+
+.bg-orange {
+    background: #ef5037;
+}
+
+.owl-buttons .owl-prev, .owl-buttons .owl-next {
+    color: rgba(0, 0, 0, 0.58);
+}
+
+.owl-pagination .owl-page span {
+    border: 2px solid rgba(0, 0, 0, 0.58);
+}
+
+.owl-pagination .active span {
+    background-color: rgba(0, 0, 0, 0.58);
+    border: 2px solid rgba(0, 0, 0, 0.58);
+}
