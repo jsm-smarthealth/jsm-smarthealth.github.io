@@ -90,6 +90,11 @@ h6.sh-font-16p {
     .sh-logo-margin {
         margin-left: -60px;
     }
+
+    .sh-purpose-height {
+        max-height: 670px !important;
+        overflow: hidden;
+    }
 }
 
 @media (max-width: 1000px) {
