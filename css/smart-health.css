@@ -9,8 +9,8 @@ li.cardiology, li.orthopaedics, li.preventive-healthcare {
 }
 
 .sh-logo {
-    max-height: 60px;
-    width: 120px;
+    max-height: 90px;
+    width: 150px;
     /* height: 60px; */
 }
 
@@ -67,4 +67,43 @@ h6.sh-font-16p {
 .owl-pagination .active span {
     background-color: rgba(0, 0, 0, 0.58);
     border: 2px solid rgba(0, 0, 0, 0.58);
+}
+
+.header-margin-top-medium {
+    margin-top: 50px;
+}
+
+.sh-contactus-padding {
+    padding-bottom: 50px !important;
+}
+
+.sh-footer-padding {
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+}
+
+@media (min-width: 1000px) {
+    .owl-pagination {
+        bottom: 200px;
+    }
+    
+    .sh-logo-margin {
+        margin-left: -50px;
+    }
+}
+
+@media (max-width: 1000px) {
+    .owl-pagination {
+        bottom: 50px;
+    }
+    
+    .sh-logo-margin {
+        margin-left: 0px;
+    }
+}
+
+@media (max-width: 480px) {
+    .owl-pagination {
+        bottom: 30px;
+    }
 }
