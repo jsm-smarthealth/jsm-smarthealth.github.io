@@ -82,6 +82,10 @@ h6.sh-font-16p {
     padding-bottom: 10px !important;
 }
 
+.sh-center-align {
+    text-align: center;
+}
+
 @media (min-width: 1000px) {
     .owl-pagination {
         bottom: 200px;
