@@ -2505,6 +2505,8 @@
     .header-style14 .social a, .header-style15 .social a{margin-left: 0px;}
     .one-fifth-screen {height:450px;}
     .xs-one-sixth-screen {min-height:500px;}
+	.list_wrap .col_lft{float:none !important; width:100% !important;}
+	.list_wrap .col_rght{float:none !important; width:100% !important;}
 }
 
 @media (max-width: 380px) {

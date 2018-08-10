@@ -42,7 +42,7 @@ Table of contents
     Reset
 ====================================== */
 
-body{ font-family: shFontType ,'Open Sans', sans-serif !important; -webkit-font-smoothing: antialiased; font-smoothing: antialiased; font-size:13px; color:#707070; line-height:22px; letter-spacing: 0.01em }
+body{ font-family: shFontType ,'Open Sans', sans-serif !important; -webkit-font-smoothing: antialiased; font-smoothing: antialiased; font-size:14px; color:#707070; line-height:22px; letter-spacing: 0.01em }
 a { text-decoration: none; color:#4e4e4e; cursor: pointer !important; outline: 0; }
 a:hover, a:focus{ text-decoration: none;}
 a:focus {outline: none; }
@@ -210,7 +210,7 @@ h6 { font-size:18px; line-height:23px}
 .text-dark-blue { color: #2c353f;}
 .text-fast-blue{ color: #3966e6;}
 .text-sky-blue-dark{ color: #2c91d8;}
-.text-blue-gray { color:#919499;}
+.text-blue-gray { color:#b6b8bc;}
 .text-cyan{ color: #31c99b;}
 .text-deep-red{ color: #e7403a;}
 .text-pink{ color: #ff3d7f;}
@@ -983,7 +983,7 @@ h6 { font-size:18px; line-height:23px}
 /* section */
 .center-col { float: none !important; margin-left: auto !important; margin-right: auto !important;}
 .clear-both{ clear:both}
-section {border-bottom:1px solid #ececec}
+section {/*border-bottom:1px solid #ececec*/}
 
 /* separator */
 .separator-line { height: 1px; width: 68px;}

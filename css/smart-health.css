@@ -1,3 +1,10 @@
+.tk_list{margin:0 0 0 32px; padding:0; list-style:none;  text-indent:-2.4em;}
+.tk_list li{margin:0 0 15px ; padding:0; line-height:20px;}
+.tk_list li:before{margin:0 10px 0 0; padding:0;  display: inline-block; width:24px; height:24px; content:""; background:url(../images/chk_icn.png) no-repeat left top; position:relative; top:10px;}
+.list_wrap{margin:0; padding:0; display:block;}
+.list_wrap .col_lft{float:left; width:49%;}
+.list_wrap .col_rght{float:right; width:49%;}
+
 #sh-projects-ul {
     text-align: center;
 }
@@ -51,6 +58,7 @@ li.cardiology, li.orthopaedics, li.preventive-healthcare {
 .sh-text-gray {
     color: #4D4D4D;
 }
+.sh-bg-gray_01{background: #f7f7f7;}
 
 h6.sh-font-16p {
     font-size: 16px;
@@ -84,6 +92,10 @@ h6.sh-font-16p {
 
 .sh-center-align {
     text-align: center;
+}
+
+.bg-dark-blue{
+	background:#2c353f;	
 }
 
 @media (min-width: 1000px) {
