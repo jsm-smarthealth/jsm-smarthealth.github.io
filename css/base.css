@@ -98,6 +98,16 @@ h4 { font-size:25px; line-height:33px}
 h5 { font-size:20px; line-height:30px}
 h6 { font-size:18px; line-height:23px} 
 
+/*different Font  size only*/
+.font-size15{font-size: 15px !important;}
+/*tick ul li*/
+.Listnone { list-style-type: none;}
+.pList li.tick:before {content:"\2713";color: black;}
+.pList li {
+    list-style-position: outside;
+}
+
+
 /* different text size */
 .text-extra-small { font-size:10px !important; line-height:15px;}
 .text-small2{ font-size:11px !important;}
