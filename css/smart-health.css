@@ -97,7 +97,16 @@ h6.sh-font-16p {
 .bg-dark-blue{
 	background:#2c353f;	
 }
-
+.login-menu{
+	background: #F25232;
+	padding: 5px 15px;
+	margin: 6px 0px 0px 0px !important;
+	border-radius: 25px;
+	text-align: center;
+}
+.login-menu a{
+	color:white !important;
+}
 @media (min-width: 1000px) {
     .owl-pagination {
         bottom: 200px;
